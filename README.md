@@ -3,6 +3,7 @@
 A multimodal NLP application that detects the language of text, images, or voice input and translates it to English.
 
 Built as a university NLP project using the [Europarl corpus](https://www.statmt.org/europarl/) across 15 European languages.
+[View project deployment here](https://huggingface.co/spaces/Apoorva06/language_translator)
 
 ---
 
