@@ -1,0 +1,10 @@
+gradio
+transformers
+torch
+joblib
+SpeechRecognition
+opencv-python-headless
+pytesseract
+sentencepiece
+numpy
+scikit-learn
